@@ -1,0 +1,49 @@
+AppIntro 是一个让人轻松快速搭建漂亮酷炫的引导页库
+
+ShowcaseView 引导页
+
+banner 轮播
+
+android-Ultra-Pull-To-Refresh 下拉
+
+MaterialViewPager 实现详情跟随 
+
+Material-Animations 页面及view视图切换过渡
+
+FloatingActionButton 悬浮操作按钮
+
+CircleImageView 圆形效果 
+
+RecyclerView Animators 是一个对 Recycler 控件的
+ Item 添加以及删除增加动画效果, 动画效果有Scale,
+ Fade, Flip, Slide 里面各种各样效果
+
+ShineButton：炫酷效果的点击按钮，主要用于显示收藏之类的动画
+
+AndroidSwipeLayout  列表项左右滑动删除
+
+FlycoDialog：多功能的Dialog
+
+FlycoTabLayout：样式比TabLayout多样的Tab库
+
+BaseRecyclerViewAdapterHelper：RecyclerView封装了强大的
+
+ActionBarSherlock  toolbar设置
+
+
+QuickAction  类似tooltip
+
+
+FadingTextView 可以text广告
+
+Shortbread 长按桌面图标弹出快捷菜
+
+Material About 一个，个人资料面板
+
+============》《===========
+Awesome-MaterialDesign
+awesome-android-ui 
+
+
+具体在收藏里面
+
